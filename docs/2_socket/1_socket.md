@@ -1,4 +1,14 @@
-## Socket
+---
+layout: post
+title: （一）网络编程那些事儿：socket
+categories: 计算机网络
+related_posts: True
+tags: network
+toc:
+  sidebar: right
+---
+
+## （一）网络编程那些事儿：socket
 
 ### 1. socket 概念
 

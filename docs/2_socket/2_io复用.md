@@ -1,4 +1,14 @@
-## io 复用
+---
+layout: post
+title: （二）网络编程那些事儿：IO复用
+categories: 计算机网络
+related_posts: True
+tags: network
+toc:
+  sidebar: right
+---
+
+## （二）网络编程那些事儿：IO复用
 
 ### 1. 基本概念
 
