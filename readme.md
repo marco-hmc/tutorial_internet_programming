@@ -4,7 +4,7 @@ title: 计算机网络
 description: 计算机网络和网络编程应用
 img: assets/img/6.jpg
 importance: 1
-category: Codebase
+category: Tutorial
 ---
 
 ## 计算机网络
